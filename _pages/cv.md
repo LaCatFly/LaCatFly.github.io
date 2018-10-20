@@ -11,44 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Accounting and Finance, Warwick Business School, UK, 2003-2006
+* MSc in Mathematical Trading and Finance, CASS Business School, UK, 2010-2012
+* PhD in Artificial Inteligence and Robotics, Georgia Institute of Technology, US, 2020 (expected)
 
-Work experience
+Career
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2006 - 2009: Financial Consultant, KPMG, London
+* 2010 - 2016: Various Positions, Credit Suisse, London
+* 2016 - 2017: Chief Scientist + Quantitative PM, QuantFlag Investment Ltd Co., Shanghai
+* 2018 - Present: AI Scientist, Hywin Weath Management, Shanghai
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Start-Up Experience
 ======
+* 2012 - 2015: [sYone & Yendo Antique](https://www.ebay.co.uk/usr/yendo_syone_trading?_trksid=p2047675.l2559), London, Business Paused
+
+* 2016 - 2017: [QuantFlag Investment Ltd Co.](https://www.qixin.com/company/b8336467-d2f0-4a97-bb35-ce6e763fd7fb), Shanghai, Ownership transferred
+
+* 2018 - Present: ShaDark Technology, Shanghai, Early Development Stage
+
+<!-- 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+--> 
+
 <!-- 
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+--> 
 
+<!-- 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
