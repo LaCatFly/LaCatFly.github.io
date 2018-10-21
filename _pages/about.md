@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-A brief note
+A brief History
 ======
 This is a website powered by Jekyll-based GitHub Pages. Since I first started to write a blog from 02/18/05, I have moved from MSN space to wordpress and from facebook to wechat. Finally (and probably not the end), a few events has led me to move again to Github. 
 
