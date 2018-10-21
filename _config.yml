@@ -185,6 +185,7 @@ collections:
 #    permalink: /:collection/:path/
 
 
+
 # Defaults
 defaults:
   # _posts
@@ -205,24 +206,27 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
   # _teaching
-#  - scope:
-#      path: ""
+#   - scope:
+#       path: ""
 #      type: teaching
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comments: true
-  #_publications - err when turned on
-   - scope:
-       path: ""
-       type: publications
-     values:
-       layout: single
-       author_profile: true
-       share: true
-       comments: true
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
+    
   # _portfolio
 #  - scope:
 #      path: ""
