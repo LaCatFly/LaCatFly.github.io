@@ -1,7 +1,7 @@
 ---
 title: "为什么萧条, 却可以增加你的财富"
 collection: publications
-permalink: /publications/2015-07-29-why-recession-increase-weath-osp
+permalink: /publication/2015-07-29-why-recession-increase-weath-osp
 excerpt: 'A snapshot on the Chinese economy Q3 2015 and possible impact onwards'
 date: 2015-07-29
 venue: 
