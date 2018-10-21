@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "sYone"
-  avatar           : "profile.png"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "A simple change of Numeraire, makes problems go away"
   location         : "Shanghai"
   employer         :
