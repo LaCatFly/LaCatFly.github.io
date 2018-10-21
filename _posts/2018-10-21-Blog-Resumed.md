@@ -5,7 +5,10 @@ date: 2018-10-21
 permalink: /posts/2018/10/blog-post-20181021/
 tags:
   - marketing
-  
+---
+
+Blog重新开启
+======
 
 
 以前做的一些东西都会陆续放到Github。现在的新Blog基于Gitpages平台，对开源数据使用，版本管理都很方便。
