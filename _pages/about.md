@@ -10,7 +10,7 @@ redirect_from:
 
 A brief History
 ======
-Since I first started to write a blog from 02/18/05, I have moved from MSN space to wordpress and from facebook to wechat. Finally (and probably not the end), a few events has led me to move again to Github. 
+Since 02/18/05 when I first started to write a blog hosted by MSN, I had used various blogging platforms from wordpress to wechat. There are quite a few reasons led me to move Github mostly due to its open source nature, but it will probably not going to be the final place for me.  
 
 
 Sections Arrangement
@@ -25,6 +25,5 @@ This is a website powered by Jekyll-based GitHub Pages. Github is a great place 
 
 The Open Book Project
 ======
-With the flexible and IT infrastructure, I think it is probably the time to start the project. This is something I always want to do since campus life. Thinks the inspiration from DanQing Chen, who has correctly pointed out it is not a shame to not have accomplished
-the target. It is rather difficult to make a start. Although I have never met him in personal, he actually gives me the encourage for being potentially under-achieved. 
+With the IT infrastructure, I think it is probably the time to start the project. This is something I always want to do since campus life. Thinks the inspiration from DanQing Chen, who has correctly pointed out it is not a shame to not have accomplished the target. It is rather difficult to make a start. Although I have never met him in personal, he actually gives me the encouragement for being potentially under-achieved.
 
