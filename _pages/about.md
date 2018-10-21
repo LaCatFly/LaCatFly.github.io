@@ -15,15 +15,15 @@ Since 02/18/05 when I first started to write a blog hosted by MSN, I had used va
 
 Sections Arrangement
 ======
-Recent articles will be posted on the ['Post'](/year-archive/) tab above. A selection of previous publications (usually > 2 years) will be digitally stamped, that means those stamped will get a DOI number and I will not be able to change the document in any way. This protect the copy right and make them permenant. 
+Recent articles will be posted on the ['Post'](/year-archive/) tab above. A selection of previous publications (usually > 2 years) will be digitally stamped, that means those stamped will get a DOI number and I will not be able to change the document in any way. Such way the copy right is maintained and the publications are permenant. 
 
 
 A Data-driven Space 
 ======
-This is a website powered by Jekyll-based GitHub Pages. Github is a great place to share evidence supported ideas. With cloud data storage, flexible infrastructure and a large community, a number of complex tasks can be achieved effortlessly. A place certainly help me to tidy up some uncompleted works, something I would recommend to my friends.
+This is a website powered by Jekyll-based GitHub Pages. Github is a great place to share evidence supported ideas. With cloud data storage, flexible infrastructure and a large community. A number of complex tasks can be achieved effortlessly. A place certainly helps me to tidy up some uncompleted works, something I would recommend to any of my friends.
 
 
 The Open Book Project
 ======
-With the IT infrastructure, I think it is probably the time to start the project. This is something I always want to do since campus life. Thinks the inspiration from DanQing Chen, who has correctly pointed out it is not a shame to not have accomplished the target. It is rather difficult to make a start. Although I have never met him in personal, he actually gives me the encouragement for being potentially under-achieved.
+Now with the correct IT infrastructure & skills in place, I think it is probably the right time to start the journey. It is something I always dreamed to do. Thinks for the inspiration with regard to DanQing Chen, who has correctly pointed out it is not a shame to not have accomplished the target, but rather difficult to make a start. The encouragement for being potentially under-achieved, is actually the point. 
 
