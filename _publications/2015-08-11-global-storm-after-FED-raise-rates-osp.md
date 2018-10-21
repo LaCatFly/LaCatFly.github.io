@@ -6,7 +6,7 @@ excerpt: 'Preview: What will happen after US FED start to raise interest rate ? 
 date: 2015-08-11
 venue: 'Zenodo'
 paperurl: 'http://doi.org/10.5281/zenodo.1467882'
-citation: 'Han, Liang. (2009-08-11). &quot;美联储即将在20天后,把这个世界卷入风暴的中心&quot; <i>Zenodo</i>. '
+citation: 'Han, Liang. (2015-08-11). &quot;美联储即将在20天后,把这个世界卷入风暴的中心&quot; <i>Zenodo</i>. '
 ---
 
 
