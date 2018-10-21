@@ -5,8 +5,8 @@ permalink: /publication/2015-07-29-why-recession-increase-wealth-osp
 excerpt: 'Preview: A snapshot on the Chinese economy Q3 2015 and possible impact onwards'
 date: 2015-07-29
 venue: 'Zenodo'
-paperurl: 'https://doi.org/10.5281/zenodo.1467857'
-citation: ' Liang,Han. (2009-07-29). &quot;为什么萧条, 却可以增加你的财富? &quot; <i>Zenodo</i>. '
+paperurl: 'http://doi.org/10.5281/zenodo.1467857'
+citation: 'Han, Liang. (2009-07-29). &quot;为什么萧条, 却可以增加你的财富? &quot; <i>Zenodo</i>. '
 ---
 
 
