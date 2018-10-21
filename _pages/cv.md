@@ -25,11 +25,9 @@ Career
 
 Start-Up Experience
 ======
-* 2012 - 2015: [sYone & Yendo Antique](https://www.ebay.co.uk/usr/yendo_syone_trading?_trksid=p2047675.l2559), London, Business Paused
-
-* 2016 - 2017: [QuantFlag Investment Ltd Co.](https://www.qixin.com/company/b8336467-d2f0-4a97-bb35-ce6e763fd7fb), Shanghai, Ownership transferred
-
-* 2018 - Present: ShaDark Technology, Shanghai, Early Development Stage
+* 2012 - 2015: [sYone & Yendo Antique](https://www.ebay.co.uk/usr/yendo_syone_trading?_trksid=p2047675.l2559), Creator and Founder, London, Business Paused
+* 2016 - 2017: [QuantFlag Investment Ltd Co.](https://www.qixin.com/company/b8336467-d2f0-4a97-bb35-ce6e763fd7fb), Managing director and Co-founder, Shanghai, Ownership Transferred
+* 2018 - Present: ShaDark Technology, Shanghai, Creator and Co-founder, Early Development Stage
 
 <!-- 
   <ul>{% for post in site.publications %}

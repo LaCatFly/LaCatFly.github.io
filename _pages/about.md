@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "A data-driven personal website
-websites"
+title: "A data-driven Blog"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
