@@ -15,7 +15,7 @@ Since 02/18/05 when I first started to write a blog, it was an new service as pa
 
 Sections Arrangement
 ======
-Recent articles will be posted on the ['Post'](/year-archive/) tab above. A selection of previous publications (usually > 2 years) will be digitally stamped, that means those stamped will get a DOI number and I will not be able to change the document in any way. Such way the copy right is maintained and the publications are permenant. 
+All recent articles will be posted on the ['Post'](/year-archive/) tab above. A selection of previous publications (usually > 2 years) will be digitally stamped, that means those stamped will get a DOI number and I will not be able to change the document in any way. Such way the copy right is maintained and the publications are permenant. 
 
 
 A Data-driven Space 
