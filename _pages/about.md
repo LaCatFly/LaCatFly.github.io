@@ -10,7 +10,7 @@ redirect_from:
 
 A brief History
 ======
-Since 02/18/05 when I first started to write a blog, it was an new service as part of MSN. After a few years, MSN has stopped its blogging business and I had to find another service provider. Over the years, various new platforms such as wordpress/wechat has provided newer tool for creative contents. I like them and have used them, but my contents are scattered all over the internet. As publication numbers accumulate, it becomes uneconomic to operate in such way.
+Since 02/18/05 when I first started to write a blog, it was an new service as part of MSN. Over the years, various new platforms such as Wordpress/Wechat has provided newer tool for creative contents. I like them and have used them, but my contents are scattered all over the internet. As publication numbers accumulate, it becomes uneconomic to operate in such way.
 
 
 Sections Arrangement
