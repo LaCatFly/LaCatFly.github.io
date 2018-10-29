@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* BSc in Accounting and Finance, Warwick Business School, UK, 2003-2006
+* PhD in Artificial Intelligence and Robotics, Georgia Institute of Technology, US, 2020 (expected)
 * MSc in Mathematical Trading and Finance, CASS Business School, UK, 2010-2012
-* PhD in Artificial Inteligence and Robotics, Georgia Institute of Technology, US, 2020 (expected)
+* BSc in Accounting and Finance, Warwick Business School, UK, 2003-2006
 
 Career
 ======

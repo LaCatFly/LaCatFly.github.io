@@ -10,7 +10,7 @@ redirect_from:
 
 A brief History
 ======
-Since 02/18/05 when I first started to write a blog, it was an new service as part of MSN. Over the years, various new platforms such as Wordpress/Wechat has provided newer tool for creative contents. I like them and have used them, but my contents are scattered all over the internet. As publication numbers accumulate, it becomes uneconomic to operate in such way.
+Since 02/18/05 when I first started to write a blog, it was a new service as part of MSN. Over years, various new platforms, e.g. Wordpress/Wechat has provided new ways for creative contents. I like them and have used them, but my contents are scattered all over the internet. As them accumulate, it becomes uneconomic to manage them all in such a way.
 
 
 Sections Arrangement
@@ -20,10 +20,10 @@ All recent articles will be posted on the ['Post'](/year-archive/) tab above. A 
 
 A Data-driven Space 
 ======
-This is a website powered by Jekyll-based GitHub Pages. Github is a great place to share evidence supported ideas. With cloud data storage, flexible infrastructure and a large community. A number of complex tasks can be achieved effortlessly. A place certainly helps me to tidy up some uncompleted works, something I would recommend to any of my friends.
+This is a website powered by Jekyll-based GitHub Pages. Github is a great place to share evidences based analytics & ideas, with cloud data storage, a flexible infrastructure and large community. A number of complex tasks can be achieved easily. A place certainly helps to speed up progession, something I would recommend to any of my friends.
 
 
 The Open Book Project
 ======
-Now with the correct IT infrastructure & skills in place, I think it is probably the right time to start the journey. It is something I always dreamed to do. Thinks for the inspiration with regard to DanQing Chen, who has correctly pointed out it is not a shame to not have accomplished the target, but rather difficult to make a start. The encouragement for being potentially under-achieved, is actually the point. 
+Now with the correct infrastructure & skill sets, I think it is probably the right time to start the journey. It is something I always dreamed to do. Thinks for the inspiration from DanQing Chen, who has correctly pointed out it is not a shame to not have accomplished the target, but rather difficult to make a start. The encouragement for being potentially under-achieved, is actually the point. 
 

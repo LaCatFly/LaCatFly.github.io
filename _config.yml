@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NO.67 红砖胡同"
+title                    : "No.67 红砖胡同"
 title_separator          : "-"
 name                     : &name "韩亮"
 description              : &description "An Activitist for Machine Intelligence"
